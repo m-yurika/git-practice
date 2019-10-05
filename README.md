@@ -1,1 +1,1 @@
-# git-practice
+# git-practice Git嫌い
